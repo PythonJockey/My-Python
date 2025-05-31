@@ -13,4 +13,8 @@ Assignment 3 Module 4 <br>
 a) Math module Factorial function <br>
 b) Recurssive Function <br>
 c) FOR loop<br>
+<br>
+2. Using math module <br>
+Calculate square root, log and sine (rad) of given number <br>
+
 
